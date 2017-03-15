@@ -4,7 +4,7 @@ import java.util.List;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
+//note this is an ongoing project that stills needs to be work on.
 public class adventure_program {
 public static void main(String[] args)
 {
